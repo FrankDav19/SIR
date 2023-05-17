@@ -51,5 +51,4 @@ function Home() {
 export default Home;
 
 
-// rfce - create function component with snippets
 //auth Entreprise - Login/Register - Dashboard
